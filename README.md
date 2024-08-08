@@ -14,7 +14,7 @@ Effortlessly enter your text into a clean and straightforward input field.
 
 Clone the project
 ```bash
-https://github.com/shwetaj-05/Word-Counter.git
+git clone https://github.com/shwetaj-05/Word-Counter.git
 ```
     
 Install npm packages
