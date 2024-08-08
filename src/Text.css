@@ -1,0 +1,52 @@
+body{
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+textarea{
+    font-family: serif;
+}
+.preview{
+    color: white;
+}
+             
+.btn {
+    background-image: linear-gradient(to right, #02AAB0 0%, #8EC5FC  51%, #02AAB0  100%);
+    margin: 10px;
+    padding: 15px 40px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-position: right; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+     
+.summary-box{
+    margin: auto;
+    width: 40%;
+    padding: 4rem 1rem;
+    background-color: #21D4FD;
+background-image: linear-gradient(19deg, #21D4FD 0%, #d16ffe 100%);
+
+
+    /* background: #8EC5FC; */
+    border: 2px solid rgb(255, 255, 255);
+}
+.summary{
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.count{
+    font-size: 1.3rem;
+    color: #effaff;
+}
