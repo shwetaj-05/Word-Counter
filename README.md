@@ -14,17 +14,17 @@ Effortlessly enter your text into a clean and straightforward input field.
 
 Clone the project
 ```bash
-    git clone https://github.com/shwetaj-05/WordCounter.git
+https://github.com/shwetaj-05/Word-Counter.git
 ```
     
 Install npm packages
 ```
-    npm install
+npm install
 ```
 
 Start 
 ```
-    npm start
+npm start
 ```
 
 ## Author
