@@ -30,16 +30,17 @@ textarea{
     color: #fff;
     text-decoration: none;
 }
-     
+    
+.copied{
+    background-image: linear-gradient(to right, #028085 0%, #4192e3  51%, #02AAB0  100%);
+}
+
 .summary-box{
     margin: auto;
     width: 40%;
     padding: 4rem 1rem;
     background-color: #21D4FD;
-background-image: linear-gradient(19deg, #21D4FD 0%, #d16ffe 100%);
-
-
-    /* background: #8EC5FC; */
+    background-image: linear-gradient(19deg, #21D4FD 0%, #d16ffe 100%);
     border: 2px solid rgb(255, 255, 255);
 }
 .summary{
